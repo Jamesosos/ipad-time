@@ -1,0 +1,4 @@
+Manus GitHub upload test
+Created: 2026-09-25
+Target repository: jamesosos/ipad-time
+Purpose: verify authenticated file upload.
